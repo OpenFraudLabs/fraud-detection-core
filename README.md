@@ -98,6 +98,3 @@ He, H., et al. (2008). ADASYN: Adaptive synthetic sampling approach for imbalanc
 Kaggle Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 
-
-   git clone https://github.com/yourusername/fraud-detection-sampling-xgboost.git
-   cd fraud-detection-sampling-xgboost
