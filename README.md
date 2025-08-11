@@ -3,11 +3,14 @@
 
 ## 🚀 Quick Start
 ```bash
+
 pip install -r requirements.txt
 python train.py --data_path ../africa-fraud-data/synthetic_transactions.csv
 
 
-for Our latest Model : Fraud Detection Using Sampling Techniques and XGBoost
+# Our latest Model : Fraud Detection Using Sampling Techniques and XGBoost
+
+published on : SSRN 
 
 # Fraud Detection Using Sampling Techniques and XGBoost
 
